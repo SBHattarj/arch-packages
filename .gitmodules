@@ -1,0 +1,30 @@
+[submodule "brave-bin"]
+	path = brave-bin
+	url = https://aur.archlinux.org/brave-bin.git
+[submodule "pane-fm-git"]
+	path = pane-fm-git
+	url = https://aur.archlinux.org/pane-fm-git.git
+[submodule "pyenv-virtualenv"]
+	path = pyenv-virtualenv
+	url = https://aur.archlinux.org/pyenv-virtualenv.git
+[submodule "swaynagmode"]
+	path = swaynagmode
+	url = https://aur.archlinux.org/swaynagmode.git
+[submodule "wayback-x11"]
+	path = wayback-x11
+	url = https://aur.archlinux.org/wayback-x11.git
+[submodule "nvim-packer-git"]
+	path = nvim-packer-git
+	url = https://aur.archlinux.org/nvim-packer-git.git
+[submodule "pwvucontrol"]
+	path = pwvucontrol
+	url = https://aur.archlinux.org/pwvucontrol.git
+[submodule "python-uinput"]
+	path = python-uinput
+	url = https://aur.archlinux.org/python-uinput.git
+[submodule "sway-screenshot"]
+	path = sway-screenshot
+	url = https://aur.archlinux.org/sway-screenshot.git
+[submodule "Youtube-playlist-shuffle"]
+	path = Youtube-playlist-shuffle
+	url = https://github.com/nknguyenhc/Youtube-playlist-shuffle.git
