@@ -28,3 +28,6 @@
 [submodule "Youtube-playlist-shuffle"]
 	path = Youtube-playlist-shuffle
 	url = https://github.com/nknguyenhc/Youtube-playlist-shuffle.git
+[submodule "bucklespring"]
+	path = bucklespring
+	url = https://github.com/zevv/bucklespring
