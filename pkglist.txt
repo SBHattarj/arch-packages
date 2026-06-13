@@ -6,6 +6,7 @@ cronie
 discord
 ex-vi-compat
 fontforge
+glfw
 godot
 greetd-gtkgreet
 grub
@@ -20,13 +21,14 @@ networkmanager
 nvidia-open-dkms
 obs-studio
 python-distutils-extra
-python-websocket-client
+raylib
 rofi
 steam
 swaync
 tmux
 ttf-fira-code
 ttf-firacode-nerd
+unzip
 wayvnc
 webkit2gtk-4.1
 wf-recorder

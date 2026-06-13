@@ -31,3 +31,24 @@
 [submodule "bucklespring"]
 	path = bucklespring
 	url = https://github.com/zevv/bucklespring
+[submodule "clipcascade-bin"]
+	path = clipcascade-bin
+	url = https://aur.archlinux.org/clipcascade-bin.git
+[submodule "python-plyer"]
+	path = python-plyer
+	url = https://aur.archlinux.org/python-plyer.git
+[submodule "python-aiortc"]
+	path = python-aiortc
+	url = https://aur.archlinux.org/python-aiortc.git
+[submodule "python-aioice"]
+	path = python-aioice
+	url = https://aur.archlinux.org/python-aioice.git
+[submodule "python-google-crc32c"]
+	path = python-google-crc32c
+	url = https://aur.archlinux.org/python-google-crc32c.git
+[submodule "python-pylibsrtp"]
+	path = python-pylibsrtp
+	url = https://aur.archlinux.org/python-pylibsrtp.git
+[submodule "google-crc32c"]
+	path = google-crc32c
+	url = https://aur.archlinux.org/google-crc32c.git
