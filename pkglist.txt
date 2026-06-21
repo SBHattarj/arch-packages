@@ -28,6 +28,7 @@ swaync
 tmux
 ttf-fira-code
 ttf-firacode-nerd
+unrar
 unzip
 wayvnc
 webkit2gtk-4.1
