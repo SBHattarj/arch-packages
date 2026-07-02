@@ -52,3 +52,9 @@
 [submodule "google-crc32c"]
 	path = google-crc32c
 	url = https://aur.archlinux.org/google-crc32c.git
+[submodule "bm-sidebar"]
+	path = bm-sidebar
+	url = https://aur.archlinux.org/bm-sidebar.git
+[submodule "waydroid-script-git"]
+	path = waydroid-script-git
+	url = https://aur.archlinux.org/waydroid-script-git.git
