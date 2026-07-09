@@ -1,5 +1,4 @@
 alure
-android-tools
 base
 contour
 cronie
@@ -23,6 +22,7 @@ obs-studio
 python-distutils-extra
 raylib
 rofi
+scrcpy
 steam
 swaync
 tmux
@@ -34,4 +34,5 @@ wayvnc
 webkit2gtk-4.1
 wf-recorder
 wine
+zip
 zsh
