@@ -18,8 +18,8 @@ meson
 mpv
 networkmanager
 nvidia-open-dkms
-obs-studio
 python-distutils-extra
+qt6-wayland
 raylib
 rofi
 scrcpy

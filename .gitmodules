@@ -58,3 +58,6 @@
 [submodule "waydroid-script-git"]
 	path = waydroid-script-git
 	url = https://aur.archlinux.org/waydroid-script-git.git
+[submodule "obs-vkcapture"]
+	path = obs-vkcapture
+	url = https://aur.archlinux.org/obs-vkcapture.git
