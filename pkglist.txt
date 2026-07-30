@@ -13,7 +13,6 @@ inkscape
 kdenlive
 krita
 libkeybinder3
-linux-zen
 meson
 mpv
 networkmanager
@@ -31,7 +30,6 @@ ttf-firacode-nerd
 unrar
 unzip
 wayvnc
-webkit2gtk-4.1
 wf-recorder
 wine
 zip
