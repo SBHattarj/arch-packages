@@ -29,6 +29,7 @@ ttf-fira-code
 ttf-firacode-nerd
 unrar
 unzip
+v4l2loopback-utils
 wayvnc
 wf-recorder
 wine
